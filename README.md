@@ -15,9 +15,9 @@ Before that, I worked as a **data scientist** in industry ([BVA](https://www.bva
 - ➗ **[Project Euler](https://github.com/EGrandgi/projectEuler/tree/master)** – R solutions to the first 54 Euler problems.
 - 📰 **[cdm2022qatar](https://github.com/EGrandgi/cdm2022qatar)** – scraping, cleaning & analysing press articles on the FIFA World Cup 2022.
 
-## 🏃‍♀️ Beyond research
+## 🏃‍♀️ Outside the lab
 I'm also a **national-level middle-distance athlete** and board member of my club, [SATUC Toulouse Athlé](https://satuc.fr/).  
-I'm passionate about the history and stats of athletics – recently I pulled together four decades of scattered performance results into a proper database of my club’s records across all age groups to document its legacy
+I'm passionate about the history and stats of athletics – I recently pulled together four decades of scattered performance results into a proper database of my club’s records across all age groups to document its legacy
 
 ## 💬 Contact
 Curious about my research, work, or athletics stats projects? Feel free to get in touch!    
