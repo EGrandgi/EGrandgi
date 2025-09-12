@@ -16,8 +16,8 @@ Before that, I worked as a **data scientist** in industry ([BVA](https://www.bva
 - 📰 **[cdm2022qatar](https://github.com/EGrandgi/cdm2022qatar)** – scraping, cleaning & analysing press articles on the FIFA World Cup 2022.
 
 ## 🏃‍♀️ Outside the lab
-I'm also a **national-level middle-distance athlete** and board member of my club, [SATUC Toulouse Athlé](https://satuc.fr/).  
-I'm passionate about the history and stats of athletics – I recently pulled together four decades of scattered performance results into a proper database of my club’s records across all age groups to document its legacy
+I'm also a **national-level middle-distance athlete** and active member of my club, [SATUC Toulouse Athlé](https://satuc.fr/).  
+I'm passionate about the history and stats of athletics – I recently pulled together four decades of scattered performance results into a proper database of my club’s records across all age groups to document its history.
 
 ## 💬 Contact
 Curious about my research, work, or athletics stats projects? Feel free to get in touch!    
