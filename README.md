@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm **Emma Grandgirard**, PhD student in **AI & Bioinformatics**, working at the intersection of the [RESTORE biology lab (STROMAGICS team)](https://restore-lab.fr/recherche/stromagics/), the [IRIT computer science lab (ADRIA team)](https://www.irit.fr/departement/intelligence-artificielle/adria/), and the [ANITI AI program (CALM chair)](https://aniti.univ-toulouse.fr/en/les-chaires-ia-cluster-aniti/) in Toulouse.  
+I'm **Emma Grandgirard**, PhD student in **AI & Bioinformatics**, working at the intersection of the [RESTORE biology lab (STROMAGICS team)](https://restore-lab.fr/recherche/stromagics/), the [IRIT computer science lab (ADRIA team)](https://www.irit.fr/departement/intelligence-artificielle/adria/), and the [ANITI AI program (CALM chair)](https://aniti.univ-toulouse.fr/en/certifiable-auto-supervised-large-models/) in Toulouse.  
 Before that, I worked as a **data scientist** in industry ([BVA](https://www.bva-xsight.com/), [VeryChic](https://www.verychic.fr/)), and I also enjoy teaching (machine learning, data science, and philosophy of science) at [INSA](https://gei.insa-toulouse.fr/fr/index.html) and [Université de Toulouse](https://www.univ-tlse3.fr/), as well as doing science communication.
 
 ## 🎯 What I do
