@@ -9,13 +9,13 @@ Before that, I worked as a **data scientist** in industry ([BVA](https://www.bva
 - Work on **health & biomedical applications**, with a focus on clarity and reproducibility
 
 ## 🔗 Some projects
-- 🔬 **[NucGen3D-pipeline](https://github.com/EGrandgi/NucGen3D-pipeline)** – simulation-based deep learning for 3D nuclei segmentation and classification.  
+- 🔬 **[NucGen3D](https://github.com/EGrandgi/NucGen3D-pipeline)** – simulation-based deep learning for 3D nuclei segmentation and classification.  
   To be released publicly soon (paper in prep). The repo already includes an overview of the tool, its main contributions, and visual examples.
 - ✈️ **[Aircraft detection](https://github.com/interpromoSID2020Airbus/g7_images_sociales)** – DL for Aircraft type classification.
 - ➗ **[Project Euler](https://github.com/EGrandgi/projectEuler/tree/master)** – R solutions to the first 54 Euler problems.
 - 📰 **[cdm2022qatar](https://github.com/EGrandgi/cdm2022qatar)** – scraping, cleaning & analysing press articles on the FIFA World Cup 2022.
 
-## 🏃‍♀️ Outside the lab
+## 🏃‍♀️ Outside of work
 I'm also a **national-level middle-distance athlete** and active member of my club, [SATUC Toulouse Athlé](https://satuc.fr/).  
 I'm passionate about the history and stats of athletics – I recently pulled together four decades of scattered performance results into a proper database of my club’s records across all age groups to document its history.
 
