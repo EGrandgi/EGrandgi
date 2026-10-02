@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm **Emma Grandgirard**, PhD student in **AI & Bioinformatics**, working at the intersection of the [RESTORE biology lab (STROMAGICS team)](https://restore-lab.fr/recherche/stromagics/), the [IRIT computer science lab (ADRIA team)](https://www.irit.fr/departement/intelligence-artificielle/adria/), and the [ANITI AI program (CALM chair)](https://aniti.univ-toulouse.fr/en/certifiable-auto-supervised-large-models/) in Toulouse.  
+I'm **Emma Grandgirard**, recent PhD graduate in **AI & Bioinformatics**, working at the intersection of the [RESTORE biology lab (STROMAGICS team)](https://restore-lab.fr/recherche/stromagics/), the [IRIT computer science lab (ADRIA team)](https://www.irit.fr/departement/intelligence-artificielle/adria/), and the [ANITI AI program (CALM chair)](https://aniti.univ-toulouse.fr/en/certifiable-auto-supervised-large-models/) in Toulouse.  
 Before that, I worked as a **data scientist** in industry ([BVA](https://www.bva-xsight.com/), [VeryChic](https://www.verychic.fr/)), and I also enjoy teaching (machine learning, data science, and philosophy of science) at [INSA](https://gei.insa-toulouse.fr/fr/index.html) and [Université de Toulouse](https://www.univ-tlse3.fr/), as well as doing science communication.
 
 ## 🎯 What I do
@@ -9,15 +9,15 @@ Before that, I worked as a **data scientist** in industry ([BVA](https://www.bva
 - Work on **health & biomedical applications**, with a focus on clarity and reproducibility
 
 ## 🔗 Some projects
-- 🔬 **[NucGen3D](https://github.com/EGrandgi/NucGen3D-pipeline)** – simulation-based deep learning for 3D nuclei segmentation and classification.  
-  To be released publicly soon (paper in prep). The repo already includes an overview of the tool, its main contributions, and visual examples.
-- ✈️ **[Aircraft detection](https://github.com/interpromoSID2020Airbus/g7_images_sociales)** – DL for Aircraft type classification.
-- ➗ **[Project Euler](https://github.com/EGrandgi/projectEuler/tree/master)** – R solutions to the first 54 Euler problems.
-- 📰 **[cdm2022qatar](https://github.com/EGrandgi/cdm2022qatar)** – scraping, cleaning & analysing press articles on the FIFA World Cup 2022.
+- 🔬 **[NucGen3D](https://github.com/EGrandgi/NucGen3D-pipeline)**: simulation-based deep learning for 3D nuclei segmentation and classification.  
+  This research was [published](https://doi.org/10.1016/j.compbiomed.2026.111905) in the international journal *Computers in Biology and Medicine*.
+- ✈️ **[Aircraft detection](https://github.com/interpromoSID2020Airbus/g7_images_sociales)**: DL for Aircraft type classification.
+- ➗ **[Project Euler](https://github.com/EGrandgi/projectEuler/tree/master)**: R solutions to the first 54 Euler problems.
+- 📰 **[cdm2022qatar](https://github.com/EGrandgi/cdm2022qatar)**: scraping, cleaning & analysing press articles on the FIFA World Cup 2022.
 
 ## 🏃‍♀️ Outside of work
 I'm also a **national-level middle-distance athlete** and active member of my club, [SATUC Toulouse Athlé](https://satuc.fr/).  
-I'm passionate about the history and stats of athletics – I recently pulled together four decades of scattered performance results into a proper database of my club’s records across all age groups to document its history.
+I'm passionate about the history and stats of athletics. I recently pulled together four decades of scattered performance results into a proper database of my club’s records across all age groups to document its history.
 
 ## 💬 Contact
 Curious about my research, work, or athletics stats projects? Feel free to get in touch!    
